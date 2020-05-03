@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoverTI : MonoBehaviour {
 
-    private float movementSpeed = 1;
+    public float movementSpeed = 25f;
     Vector3 TargetPosition;
     private float targetTime = 5.0f;
     private bool bandera = true;
@@ -20,10 +20,10 @@ public class MoverTI : MonoBehaviour {
         {
             transform.Translate(Vector3.left * Time.deltaTime * movementSpeed);
 
-            if (transform.position.x < -15.92f)
+            if (transform.position.x < -430.10f)
             {
                 TargetPosition = transform.position;
-                TargetPosition.x += 15f;
+                TargetPosition.x += 500.50f;
                 transform.position = TargetPosition;
             }
         }

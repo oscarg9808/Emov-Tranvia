@@ -501,6 +501,34 @@ ModelImporter:
     100990: tram_wheel__600mm_2_8
     100992: tram_wheel__600mm_2_9
     100994: //RootNode
+    100996: ptr1
+    100998: ptr10
+    101000: ptr11
+    101002: ptr12
+    101004: ptr13
+    101006: ptr14
+    101008: ptr15
+    101010: ptr16
+    101012: ptr17
+    101014: ptr18
+    101016: ptr19
+    101018: ptr2
+    101020: ptr20
+    101022: ptr21
+    101024: ptr22
+    101026: ptr23
+    101028: ptr24
+    101030: ptr25
+    101032: ptr26
+    101034: ptr27
+    101036: ptr28
+    101038: ptr3
+    101040: ptr4
+    101042: ptr5
+    101044: ptr6
+    101046: ptr7
+    101048: ptr8
+    101050: ptr9
     400000: ALSTOM_4_1
     400002: ALSTOM_4_2
     400004: ALSTOM_4_3
@@ -999,6 +1027,34 @@ ModelImporter:
     400990: tram_wheel__600mm_2_8
     400992: tram_wheel__600mm_2_9
     400994: //RootNode
+    400996: ptr1
+    400998: ptr10
+    401000: ptr11
+    401002: ptr12
+    401004: ptr13
+    401006: ptr14
+    401008: ptr15
+    401010: ptr16
+    401012: ptr17
+    401014: ptr18
+    401016: ptr19
+    401018: ptr2
+    401020: ptr20
+    401022: ptr21
+    401024: ptr22
+    401026: ptr23
+    401028: ptr24
+    401030: ptr25
+    401032: ptr26
+    401034: ptr27
+    401036: ptr28
+    401038: ptr3
+    401040: ptr4
+    401042: ptr5
+    401044: ptr6
+    401046: ptr7
+    401048: ptr8
+    401050: ptr9
     2100000: Color_B01
     2100002: _Color_008_1
     2100004: M_0133_Gray
@@ -1041,6 +1097,19 @@ ModelImporter:
     2100078: Color_007
     2100080: _Silver_1
     2100082: _DarkRed_1
+    2100084: Color_M06
+    2100086: Color_M05
+    2100088: Color_M02
+    2100090: Color_M09
+    2100092: _Color_A05_3
+    2100094: Color_E05
+    2100096: Translucent_Glass_Gray
+    2100098: Mirror_02
+    2100100: M_0131_Silver
+    2100102: _Mirror_02_1
+    2100104: _Color_M09_1
+    2100106: _Translucent_Glass_Gray_1
+    2100108: gadcuenca
     2300000: Mesh1
     2300002: Mesh10
     2300004: Mesh100
